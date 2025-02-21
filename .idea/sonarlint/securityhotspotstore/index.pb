@@ -9,3 +9,5 @@ M
 vitest.config.js,e/0/e07f8ead7c602b60a2232e5ffe6110c6ee0d3968
 E
 contracts/avatar.clar,b/4/b4f10d0766f8c70e032e292f0e9481407e315afc
+D
+tests/avatar.test.ts,3/4/34a9cef7808df92ace466dd512b5554983662bb4
