@@ -10,6 +10,11 @@ path = 'contracts/avatar.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.economy]
+path = 'contracts/economy.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.land-management]
 path = 'contracts/land-management.clar'
 clarity_version = 2
