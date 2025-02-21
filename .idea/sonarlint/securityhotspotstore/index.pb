@@ -13,3 +13,5 @@ D
 tests/avatar.test.ts,3/4/34a9cef7808df92ace466dd512b5554983662bb4
 F
 contracts/economy.clar,8/d/8d543377eb2fe5f1d620572456e9512f0990c456
+E
+tests/economy.test.ts,9/a/9a0a01bf76a33b24474caa7d9baf5382a5b88aae
